@@ -13,7 +13,7 @@ a turk trying to improve himself
 src="https://img.shields.io/github/followers/AhmetRecaiElcan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&pause=1000&color=B78EF7&background=FFFD4F00&width=600&lines=C+LEARNER+AT+42+KOCAELI;ELECTRICAL+ENGINEER+%26%26+JR+SOFTWARE+DEVELOPER;LIFELONG+LEARNING+..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&pause=1000&color=B78EF7&background=FFFD4F00&width=600&lines=KENDİNİ+GELİŞTİRMEYE+ÇALIŞAN+BİR+İNSAN;PES+ETME+%26%26+JR+SOFTWARE+DEVELOPER;LIFELONG+LEARNING+..." alt="Typing SVG" /></a>
 ### Skills
 
 
