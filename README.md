@@ -1,4 +1,4 @@
-[![MasterHead](https://avatars.githubusercontent.com/u/97764491?s=400&u=91e0aabff17c7750b8171a9cda7040df7ae9d0ae&v=4)
+![MasterHead](https://user-images.githubusercontent.com/97764491/250201867-5198672e-23fe-459a-9aa8-65f7a660c4b8.gif)
 <h1 align="center">Merhaba ben Ahmet Recai Elcan</h1>
 <h3 align="center">Kendini geliştirmeye çalışan küçük bir çocuk</h3>
 
